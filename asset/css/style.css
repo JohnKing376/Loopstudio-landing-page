@@ -758,7 +758,7 @@ header {
 
 /* Animations */
 
-/* @keyframes introLoad {
+@keyframes introLoad {
     from {
         clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
     }
@@ -776,5 +776,5 @@ header {
         transform: translateY(0);
         opacity: 1;
     }
-} */
+}
 
